@@ -89,7 +89,7 @@ export default function LandingPage() {
       <ProductCardOne
       animationType="slide-up"
       textboxLayout="default"
-      gridVariant="three-columns-all-equal-width"
+      gridVariant="bento-grid"
       useInvertedBackground={false}
       products={[
         {
